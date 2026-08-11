@@ -11,13 +11,13 @@ I build practical projects, explore security labs, and continuously develop my s
 ## Tech Stack
 
 **Languages**
-Python · Bash · JavaScript
+🐍 Python · 🐚 Bash · 🌐 JavaScript
 
 **DevOps & Infrastructure**
-Linux · Docker · Git · GitHub Actions · CI/CD
+🐧 Linux · 🐳 Docker · 🔧 Git · ⚙️ GitHub Actions · CI/CD
 
 **Cybersecurity**
-Web Security · Penetration Testing · Networking · OWASP · Bug Bounty · CTF
+🛡 Web Security · 🔍 Penetration Testing · 🌐 Networking · OWASP · Bug Bounty · CTF
 
 ---
 
@@ -35,8 +35,7 @@ Currently focused on:
 
 ### Security Profiles
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-NIGHTFURY-red?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/NIGHTFURY)
-[![HackerOne](https://img.shields.io/badge/HackerOne-NIGHTFURY01-black?style=for-the-badge\&logo=hackerone\&logoColor=white)](https://hackerone.com/nightfury01)
+\
 
 ---
 
@@ -46,15 +45,12 @@ Currently focused on:
 
 Introduction to Computer Science.
 
-[![CS50 Certificate](https://img.shields.io/badge/Verify_CS50_Certificate-8B0000?style=for-the-badge)](https://cs50.harvard.edu/certificates/709339d6-d024-4e8b-b0d5-b775a77a5d9c)
-
 ---
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-NIGHTFURY0X01-181717?style=for-the-badge\&logo=github)](https://github.com/NIGHTFURY0X01)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-NIGHTFURY-red?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/NIGHTFURY)
-[![HackerOne](https://img.shields.io/badge/HackerOne-NIGHTFURY01-black?style=for-the-badge\&logo=hackerone\&logoColor=white)](https://hackerone.com/nightfury01)
+
+\
 
 ---
 
