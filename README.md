@@ -35,12 +35,14 @@
 
 <p>
 <a href="https://tryhackme.com/p/NIGHTFURY">
-<img src="https://img.shields.io/badge/TryHackMe-NIGHTFURY-111111?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-NIGHTFURY-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
+
 <a href="https://hackerone.com/nightfury01">
-<img src="https://img.shields.io/badge/HackerOne-NIGHTFURY01-111111?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerOne-NIGHTFURY01-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
 </a>
 </p>
+
 
 ### 🎓 Certification
 
