@@ -44,8 +44,14 @@
 
 ### 🎓 Certification
 
-**CS50x — Harvard University**
-[![Certificate](https://img.shields.io/badge/Verify_Certificate-111111?style=for-the-badge\&logo=harvard\&logoColor=white)](https://cs50.harvard.edu/certificates/709339d6-d024-4e8b-b0d5-b775a77a5d9c)
+<p>
+<a href="https://cs50.harvard.edu/certificates/709339d6-d024-4e8b-b0d5-b775a77a5d9c">
+<img src="https://img.shields.io/badge/CS50x-Harvard_University-8B0000?style=for-the-badge&logo=harvard&logoColor=white"/>
+</a>
+</p>
+
+**CS50x — Introduction to Computer Science**
+Harvard University · **Verified Certificate**
 
 ---
 
