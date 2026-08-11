@@ -73,18 +73,6 @@ I'm actively developing my skills in **Web Security, Penetration Testing, Networ
 
 ### CS50x — Harvard University
 
-**Introduction to Computer Science**
-
-CS50 covers core computer science concepts including:
-
-* Programming
-* Algorithms
-* Data Structures
-* Memory
-* Databases
-* Web Development
-* Software Engineering
-
 [![CS50 Certificate](https://img.shields.io/badge/CS50x-Harvard_University-8B0000?style=for-the-badge)](https://cs50.harvard.edu/certificates/709339d6-d024-4e8b-b0d5-b775a77a5d9c)
 
 **Certificate:** [Verify Certificate](https://cs50.harvard.edu/certificates/709339d6-d024-4e8b-b0d5-b775a77a5d9c)
@@ -99,6 +87,4 @@ CS50 covers core computer science concepts including:
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-NIGHTFURY01-black?style=for-the-badge\&logo=hackerone\&logoColor=white)](https://hackerone.com/nightfury01)
 
----
 
-> **Learn. Build. Break. Secure.**
