@@ -27,8 +27,6 @@ I enjoy building systems, analyzing networks, solving security challenges, and l
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
 ### DevOps & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
@@ -52,9 +50,6 @@ I'm actively developing my skills in **Web Security, Penetration Testing, Networ
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-NIGHTFURY-red?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/NIGHTFURY)
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-NIGHTFURY01-black?style=for-the-badge\&logo=hackerone\&logoColor=white)](https://hackerone.com/nightfury01)
-
-**TryHackMe:** [NIGHTFURY](https://tryhackme.com/p/NIGHTFURY)
-**HackerOne:** [@NIGHTFU831](https://hackerone.com/nightfury01)
 
 ### Focus Areas
 
