@@ -53,6 +53,3 @@
   <b>Build • Break • Secure</b>
 </p>
 
-<p align="center">
-  <sub>Always learning. Always building.</sub>
-</p>
