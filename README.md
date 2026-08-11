@@ -52,7 +52,7 @@
 </a>
 </p>
 
-**CS50x — Introduction to Computer Science**
+**CS50x — Introduction to Programming with Python,**
 Harvard University · **Verified Certificate**
 
 ---
